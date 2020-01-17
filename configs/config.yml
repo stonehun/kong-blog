@@ -1,0 +1,8 @@
+env: dev
+jwt_key: 123456
+db:
+  host: 127.0.0.1
+  name: root
+  password: 1baoji123
+  port: 3306
+  database: blog
